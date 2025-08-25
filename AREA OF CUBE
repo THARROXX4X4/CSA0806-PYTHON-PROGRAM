@@ -1,0 +1,5 @@
+a=4
+
+x=6*(a*a)
+
+print("area of cube is:",x)
