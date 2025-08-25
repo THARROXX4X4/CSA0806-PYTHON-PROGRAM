@@ -1,0 +1,11 @@
+set1={1,2,4,5}
+
+set2={1,2,4,5,6}
+
+union_set = set1.union(set2)
+
+print("the union of two sets:",union_set)
+
+OUT PUT:
+the union of two sets: {1, 2, 4, 5, 6}
+
