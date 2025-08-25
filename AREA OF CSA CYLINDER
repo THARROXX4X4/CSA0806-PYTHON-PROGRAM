@@ -1,0 +1,7 @@
+r=2
+
+h=3
+
+a=2*3.14*(r*h)
+
+print("area of cylinder is:",a)
