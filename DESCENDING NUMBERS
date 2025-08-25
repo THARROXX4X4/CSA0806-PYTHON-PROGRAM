@@ -1,0 +1,9 @@
+Original_list=[1,4,3,5,6,9]
+
+sorted_list_descending = sorted(original_list,reverse=True)
+
+print(sorted_list_descending)
+
+print(original_list)
+OUT PUT:[9, 6, 5, 4, 3, 1]
+[1, 4, 3, 5, 6, 9]
