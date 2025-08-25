@@ -1,0 +1,9 @@
+l=5
+
+b=4
+
+a=l*b
+
+print ("area of a rectangle:",a)
+
+​
