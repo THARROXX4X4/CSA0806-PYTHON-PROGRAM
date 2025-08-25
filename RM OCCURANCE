@@ -1,0 +1,8 @@
+original_list=[1,2,3,4,5,2,4,5]
+
+element_to_remove=2
+
+new_list=[item for item in original_list if item!=element_to_remove]
+
+print(new_list)
+OUT PUT:[1, 3, 4, 5, 4, 5]
